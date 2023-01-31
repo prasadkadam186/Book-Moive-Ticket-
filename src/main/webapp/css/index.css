@@ -1,0 +1,45 @@
+*{
+	font-family: serif;
+	font-size: 15px;
+	text-align: center;
+	
+	background-image:inherit;
+}
+label{
+	font-size: 25px;
+	color: black;
+}
+select{
+	background-color: #dddea0;
+	box-shadow: 0 0 5px #ff0080,
+	0 0 25px #ff0080,
+	0 0 50px #ff0080,
+	0 0 100px #ff0080;
+}
+input{
+	background-color: #dddea0;
+	box-shadow: 0 0 5px #ff0080,
+	0 0 25px #ff0080,
+	0 0 50px #ff0080,
+	0 0 100px #ff0080;
+}
+form {
+	margin-top: 10px;
+	background-color: #798685;
+	font-size: 25px;
+}
+button {
+	border-radius:5px;
+	box-shadow: 0 0 5px #ff0080,
+	0 0 25px #ff0080,
+	0 0 50px #ff0080,
+	0 0 100px #ff0080;
+	background-color: #dddea0;
+	color: black;
+}
+h1{
+	color: #9a6b65;
+	size: 20px;
+	text-decoration: overline;
+	text-transform: uppercase;
+}
